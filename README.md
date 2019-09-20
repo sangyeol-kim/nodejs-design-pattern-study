@@ -1,5 +1,9 @@
 # Node.js Design Pattern
 
+<div>
+  <img width="300" src="https://user-images.githubusercontent.com/26738287/65292808-cd25e900-db93-11e9-99f7-26105307dc42.jpg">
+</div>
+
 ## 목적
 
 - 실무 또는 개인적으로 Node.js를 사용하며, 디자인 패턴에 대해 이해하지 못했던 부분을 스터디를 통해 책을 읽으며 공부
