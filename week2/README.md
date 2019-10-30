@@ -6,12 +6,12 @@
 
 ## 결과
 
-- 진행 전
+- Chapter 2까지 진행 후 Node.js Module System과 EventListiner 등에 대한 토론
 
 ## 3주차 계획
 
-- 진행 전
+- Chapter 3 진행.
 
 ## 3주차 일정
 
-- 진행 전
+- 11월 6일 강남권역 저녁 7시 30분
